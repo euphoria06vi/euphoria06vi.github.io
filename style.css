@@ -1,1 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family:'Arial', sans-serif;
+  background-color: #EBDDEA;
+  color: #000000;
+}
+h1{
+  font-family:'Georgia', serif;
+  font-size: 3rem;
+  text-align: center;
+  color: #ff5733;
+  background-color: #EBDDEA;
+  padding:1em;
+  border-radius:5px;
+  box-shadows:02px 5px rgba(0,0,0,0.1);
+}
+  
 
